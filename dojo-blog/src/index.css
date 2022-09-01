@@ -96,6 +96,11 @@
   cursor: pointer;
 }
 
+.blog-details button:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 /* create new blog form */
 .create {
   max-width: 400px;
