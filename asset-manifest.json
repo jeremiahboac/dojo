@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dojo-blog/static/css/main.5659eafc.css",
-    "main.js": "/dojo-blog/static/js/main.b4ce5698.js",
-    "index.html": "/dojo-blog/index.html",
-    "main.5659eafc.css.map": "/dojo-blog/static/css/main.5659eafc.css.map",
-    "main.b4ce5698.js.map": "/dojo-blog/static/js/main.b4ce5698.js.map"
+    "main.css": "/dojo/static/css/main.5659eafc.css",
+    "main.js": "/dojo/static/js/main.6ea3ea4f.js",
+    "index.html": "/dojo/index.html",
+    "main.5659eafc.css.map": "/dojo/static/css/main.5659eafc.css.map",
+    "main.6ea3ea4f.js.map": "/dojo/static/js/main.6ea3ea4f.js.map"
   },
   "entrypoints": [
     "static/css/main.5659eafc.css",
-    "static/js/main.b4ce5698.js"
+    "static/js/main.6ea3ea4f.js"
   ]
 }
