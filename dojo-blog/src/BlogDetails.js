@@ -13,7 +13,7 @@ const BlogDetails = () => {
       method: "DELETE"
     })
     .then(() => {
-      history.push("/")
+      history.push("/dojo")
     })
   }
 

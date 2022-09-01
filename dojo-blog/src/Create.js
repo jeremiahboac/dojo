@@ -29,7 +29,7 @@ const Create = () => {
     .then(() => {
       console.log("New Blog Added!")
       setLoading(false)
-      history.push("/")
+      history.push("/dojo")
     })
   }
 

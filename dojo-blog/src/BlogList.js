@@ -9,7 +9,7 @@ const BlogList = ({data, title}) => {
       {data.slice(0).reverse().map(data => {
         return (
           <div className='blog-preview' key={data.id}>
-            <Link to={`/blogs/${data.id}`}>
+            <Link to={`/dojo/blogs/${data.id}`}>
               <h2>{data.title}</h2>
               <p>Written by: {data.author}</p>
             </Link>
